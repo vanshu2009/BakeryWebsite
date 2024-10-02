@@ -83,7 +83,7 @@ const Navbar = () => {
         </div>
         <div class="navbar-end">
 
-        {/* search btn */}
+        {/* search btn code */}
         <button className="btn btn-ghost btn-circle hidden lg:flex">
       <svg
         xmlns="http://www.w3.org/2000/svg"
